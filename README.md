@@ -2,6 +2,7 @@
 
 User Record API build using Django-Rest-Framework.
 
+Code Deployed on Heroku - https://sakshi-task.herokuapp.com/
 
 =======================================================================================
 
@@ -70,3 +71,6 @@ https://sakshi-task.herokuapp.com/?dob=2/28/1996
 
 https://sakshi-task.herokuapp.com/?age=25
 
+
+
+Same API built using DATABASE - https://sakshi-task2.herokuapp.com/
