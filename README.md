@@ -8,19 +8,19 @@ User Record API build using Django-Rest-Framework
 
 ## Links
 
-```https://sakshi-task.herokuapp.com/``` default API for all the records.
+```https://sakshi-task.herokuapp.com``` default API for all the records.
 
-```https://sakshi-task.herokuapp.com/?id=<id>/``` filter id from user records.
+```https://sakshi-task.herokuapp.com/?id=<id>``` filter id from user records.
 
-```https://sakshi-task.herokuapp.com/?firstname=<firstname>/``` filter firstname from user records.
+```https://sakshi-task.herokuapp.com/?firstname=<firstname>``` filter firstname from user records.
 
-```https://sakshi-task.herokuapp.com/?lastname=<lastname>/``` filter lastname from user records.
+```https://sakshi-task.herokuapp.com/?lastname=<lastname>``` filter lastname from user records.
 
-```https://sakshi-task.herokuapp.com/?email=<emailid>/``` filter emailid from user records.
+```https://sakshi-task.herokuapp.com/?email=<emailid>``` filter emailid from user records.
 
-```https://sakshi-task.herokuapp.com/?phonenumber=<phonenumber>/``` filter phonenumber from user records.
+```https://sakshi-task.herokuapp.com/?phonenumber=<phonenumber>``` filter phonenumber from user records.
 
-```https://sakshi-task.herokuapp.com/?dob=<date>/<month>/<year>/``` filter dob from user records.
+```https://sakshi-task.herokuapp.com/?dob=<date>/<month>/<year>``` filter dob from user records.
 
-```https://sakshi-task.herokuapp.com/?age=<age>/``` filter age from user records.
+```https://sakshi-task.herokuapp.com/?age=<age>``` filter age from user records.
 
