@@ -3,7 +3,7 @@
 User Record API build using Django-Rest-Framework.
 
 
-<<<
+============================================================================
 
 Create a rest api for getting all users records.
 
@@ -25,8 +25,7 @@ Create a rest api for getting all users records.
 
 => Write a ReadMe file for how to use filter.
 
-
->>>
+=======================================================================================
 
 All the above objectives completed.
 
