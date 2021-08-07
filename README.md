@@ -28,10 +28,16 @@ User Record API build using Django-Rest-Framework
 ## Examples
 
 https://sakshi-task.herokuapp.com/?id=8 
+
 https://sakshi-task.herokuapp.com/?firstname=Dave
+
 https://sakshi-task.herokuapp.com/?lastname=Smith
+
 https://sakshi-task.herokuapp.com/?email=inico@me.com
+
 https://sakshi-task.herokuapp.com/?phonenumber=9179763151
+
 https://sakshi-task.herokuapp.com/?dob=2/28/1996
+
 https://sakshi-task.herokuapp.com/?age=25
 
