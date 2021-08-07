@@ -1,12 +1,28 @@
 # sakshi-task
 
-User Record API build using Django-Rest-Framework
+User Record API build using Django-Rest-Framework.
+
+<<<
+Create a rest api for getting all users records.
+
+=> Use GIT for sharing your code
+=> Use Array for storing users data
+=> Show at least 20 records
+=> Use First name, Last Name, Email, Age, DoB, Mobile No
+=> By Default Api will give all records
+=> Api can filter the data by any given field.
+=> Use any GET or POST method for filtering
+=> Deploy your code on any open source server and share the Api URL.
+=> Write a ReadMe file for how to use filter
+>>>
+
+All the above objectives completed.
 
 ## How to Use and Test this Application on your computer
 - run ```pip install -r requirements.txt```  in your shell to install the specified packages with the specified version.
 - run the app ```python manage.py runserver```
 
-## Links
+## Use GET method at all these routes.
 
 ```https://sakshi-task.herokuapp.com``` default API for all the records.
 
