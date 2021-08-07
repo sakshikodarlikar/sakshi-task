@@ -3,7 +3,7 @@
 User Record API build using Django-Rest-Framework.
 
 
-============================================================================
+=======================================================================================
 
 Create a rest api for getting all users records.
 
