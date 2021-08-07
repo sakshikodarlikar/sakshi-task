@@ -4,6 +4,7 @@ User Record API build using Django-Rest-Framework.
 
 
 <<<
+
 Create a rest api for getting all users records.
 
 => Use GIT for sharing your code.
@@ -23,6 +24,7 @@ Create a rest api for getting all users records.
 => Deploy your code on any open source server and share the Api URL.
 
 => Write a ReadMe file for how to use filter.
+
 
 >>>
 
