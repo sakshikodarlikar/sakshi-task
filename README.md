@@ -50,7 +50,7 @@ All the above objectives completed.
 
 ```https://sakshi-task.herokuapp.com/?phonenumber=<phonenumber>``` filter phonenumber from user records.
 
-```https://sakshi-task.herokuapp.com/?dob=<date>/<month>/<year>``` filter dob from user records.
+```https://sakshi-task.herokuapp.com/?dob=<month>/<date>/<year>``` filter dob from user records.
 
 ```https://sakshi-task.herokuapp.com/?age=<age>``` filter age from user records.
 
